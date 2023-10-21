@@ -14,7 +14,8 @@ My name is Cimmaron but you can call me Cimm. Sometimes known as the data wrangl
 
 My background is in the environmental sciences. I am particularly interested in toxic marine cyanobacteria, mycology, and environmental justice. I am currently looking for work as a data analyst or database administrator.
 
-:arrow_right: I would like to upgrade my programming skills and pursue a postgraduate education in data science 
+:arrow_right: I would like to upgrade my programming skills and pursue a postgraduate education in data science<br>
+↪️ I am currently learning Python 🐍
 - I have enjoyed learning about more advanced computational statistics, especially Bayesian modelling 
   - Some fun things I have used in projects: **Markov Chain Monte Carlo methods, Bayesian estimation, time series models, Generalized Linear Models, experimental design, and statistical learning**
 - I like **ArcGIS Pro** and **ESRI software** 🌐
